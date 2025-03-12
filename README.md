@@ -106,7 +106,6 @@ This will load the fine-tuned model and generate a response to the example promp
    ```
 
 4. **Example Prompts:**
-
     Here are some example prompts you can use with HubermanGPT:
 
     General Neuroscience:
